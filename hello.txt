@@ -12,5 +12,5 @@ hello jam! hello git!
 hello jam! hello git!
 hello jam! hello git!
 hello jam! hello git!
-hello jam! hello git!
+hello jam! hello git! master test
 hello jam! hello git!
